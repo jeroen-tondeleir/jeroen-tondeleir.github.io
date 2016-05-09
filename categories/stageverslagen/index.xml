@@ -2,33 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stageverslagen on Geïntegreerde proef</title>
-    <link>http://jeroen-tondeleir.github.io/categories/stageverslagen/</link>
+    <link>jeroen-tondeleir.github.io/categories/stageverslagen/</link>
     <description>Recent content in Stageverslagen on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 15:44:56 +0200</lastBuildDate>
-    <atom:link href="http://jeroen-tondeleir.github.io/categories/stageverslagen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="jeroen-tondeleir.github.io/categories/stageverslagen/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ftc</title>
-      <link>http://jeroen-tondeleir.github.io/stageverslag/ftc/</link>
+      <link>/jeroen-tondeleir.github.io/stageverslag/ftc/</link>
       <pubDate>Thu, 22 Oct 2015 15:44:56 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/stageverslag/ftc/</guid>
-      <description>&lt;p&gt;Hieronder kunt u mijn stageverslagen van ftc vinden.
-&lt;em&gt;EDIT: deze verslagen staan nog op de schoolpc.&lt;/em&gt;&lt;/p&gt;
+      <guid>/jeroen-tondeleir.github.io/stageverslag/ftc/</guid>
+      <description>
+
+&lt;p&gt;Hieronder kunt u mijn stageverslagen van ftc vinden.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-07:b299ba8b59148e3490f9d04023ca45a5&#34;&gt;2016-01-07&lt;/h2&gt;
+
+&lt;p&gt;Ik heb niet echt iets interessant kunnen doen, het was eigenlijk vooral de hele dag kuisen.
+Dit was vooral aan de kast waar de laptops inzaten om die uit te laden, daarna de laden proper te maken (van het stof) en als laatste de laptops ook afstoffen.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-13:b299ba8b59148e3490f9d04023ca45a5&#34;&gt;2016-01-13&lt;/h2&gt;
+
+&lt;p&gt;Vandaag was het een hele dag laders testen, dus de tijd kroop zeer traag voorbij. Ondanks alles heb ik geprobeerd er toch nog het beste van te maken en zoveel mogelijk te doen. Ik heb nog kort een paar paletten vervoert met pc’s erop.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-20:b299ba8b59148e3490f9d04023ca45a5&#34;&gt;2016-01-20&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hadden ze voor mij een leuker programma voorzien dat de laatste keren. Ik mocht de specificatie’s van een grote doos laptops die was binnengekomen noteren. Dit nam bijna alle tijd in beslag. Ik had alles zorgvuldig getest en gesorteerd per type en de speciale gevallen ook apart gelegd. Nadien mocht ik nog een andere laptops beginnen, maar daar heb ik niet alles van kunnen doen.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-27:b299ba8b59148e3490f9d04023ca45a5&#34;&gt;2016-01-27&lt;/h2&gt;
+
+&lt;p&gt;Mijn (voorlopig) laatste dag op FTC verliep tamelijk leuk, ik moest een groot deel van de dag de specificaties van laptops noteren (in de spreektaal wordt dit specken genoemd). Terwijl ik bezig was kwam de baas terug, dus ik heb de kans genomen om vragen te stellen over de Case-Study zodat ik meer informatie had. Op het laatste heb ik wat voedingen van pc’s verwisseld (de stille voedingen van AMD exportpc’s verwisseld met de ‘goede’ pc’s van intel waarvan de voeding een beetje te veel lawaai maakte (tegenover de het normalle geluid)). En ik moest van de intel pc’s de specificaties opschrijven.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2be-IT</title>
-      <link>http://jeroen-tondeleir.github.io/stageverslag/2be-IT/</link>
+      <link>/jeroen-tondeleir.github.io/stageverslag/2be-IT/</link>
       <pubDate>Thu, 22 Oct 2015 14:58:10 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/stageverslag/2be-IT/</guid>
-      <description>&lt;p&gt;Hieronder kunt u mijn stageverslagen van 2be-IT vinden.&lt;/p&gt;
+      <guid>/jeroen-tondeleir.github.io/stageverslag/2be-IT/</guid>
+      <description>
 
-&lt;p&gt;&lt;em&gt;EDIT: deze verslagen staan nog op de schoolpc.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hieronder kunt u mijn stageverslagen van 2be-IT vinden.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-05:78bd0536e9c0e32a8cd4f25fbc9ad2f2&#34;&gt;2016-01-05&lt;/h2&gt;
+
+&lt;p&gt;Vandaag moest ik verder werken aan de site van &lt;a href=&#34;http://www.dengoudendriehoek.be&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Website van dengoudendriehoek&#34;&gt;den gouden driehoek&lt;/a&gt;.&lt;br /&gt;
+Het was vooral de marges in orde brengen op de website en een fotogallerij die gelinkt is aan flickr invoegen.
+De marges heb ik in orde gebracht door een margin-left en margin-right in te voegen in de style.css (op de body).
+De opdracht over flickr was meer zoekwerk, het is gedeeltelijk gelukt maar het trekt nog niet op het eindresultaat.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-11:78bd0536e9c0e32a8cd4f25fbc9ad2f2&#34;&gt;2016-01-11&lt;/h2&gt;
+
+&lt;p&gt;Ik mocht verder werken aan de site van dengoudendriehoek.
+Vandaag hield het vooral in om op de profielen van de leden enkel de gegevens te laten zien die de klant wou hebben en nog wat onnodige dingen eruitwerken (zoals forumposts, articles enz), omdat dit niet op dezelfde manier kon gebeuren heb ik er wat langer aan gezeten.&lt;/p&gt;
+
+&lt;p&gt;Daarna ben ik vooral nog bezig geweest om de site naar het Nederlands om te zetten, dit moest omdat de meeste gebruikte woorden in het Engels waren en dit kon je niet veranderen door te typen.
+Dit probleem heb ik opgelost door een Joomla language pack NL-nl te downloaden (de nieuwste versie) en dat de standaardtaal te maken en daarna voor community builder ook een translation pack NL-nl te downloaden (via CB plugin manager). Doordat ik de standaardtaal van de site op Nederlands had gezet werd het translation pack voor CB automatisch toegepast.&lt;/p&gt;
+
+&lt;p&gt;Nota: CB (Community Builder) is een plugin voor de ledenlijst en ledenomgeving.
+Het contactformulier moet nog vertaald worden, maar daar had ik geen tijd voor.
+Dit zal ook wel een tijdje duren omdat ik nog moet uitzoeken welke extensie dat is.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-18:78bd0536e9c0e32a8cd4f25fbc9ad2f2&#34;&gt;2016-01-18&lt;/h2&gt;
+
+&lt;p&gt;Ik heb nog verder gewerkt aan de website en zoveel mogelijk proberen te doen, maar ik moest vooral veel dingen nog opzoeken dus het ging niet heel erg snel vooruit. De site is nog niet af, maar er is al wel veel verbeterd als je vergelijkt met hoe het in het begin was.&lt;/p&gt;
+
+&lt;h2 id=&#34;2016-01-25:78bd0536e9c0e32a8cd4f25fbc9ad2f2&#34;&gt;2016-01-25&lt;/h2&gt;
+
+&lt;p&gt;Geen stage wegens pedagogische studiedag.&lt;/p&gt;
 </description>
     </item>
     

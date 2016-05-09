@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Document on Geïntegreerde proef</title>
-    <link>http://jeroen-tondeleir.github.io/tags/document/</link>
+    <link>jeroen-tondeleir.github.io/tags/document/</link>
     <description>Recent content in Document on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 15:37:51 +0200</lastBuildDate>
-    <atom:link href="http://jeroen-tondeleir.github.io/tags/document/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="jeroen-tondeleir.github.io/tags/document/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>_index</title>
-      <link>http://jeroen-tondeleir.github.io/_index/</link>
+      <link>/jeroen-tondeleir.github.io/_index/</link>
       <pubDate>Thu, 22 Oct 2015 15:37:51 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/_index/</guid>
+      <guid>/jeroen-tondeleir.github.io/_index/</guid>
       <description>
 
 &lt;h1 id=&#34;welkom-op-mijn-gip-website:3976528693a0108357f4928017600865&#34;&gt;Welkom op mijn GIP-website&lt;/h1&gt;
@@ -24,19 +24,23 @@
 &lt;p&gt;Mijn naam is Jeroen Tondeleir, ik ben achtien jaar oud en woon in Zoersel.
 Ik zit in het zesde jaar Informaticabeheer van het Immaculata instituut.
 Mijn hobby’s zijn scouts, judo, tennis en lezen.
-Om even uit te breiden over de scouts, ik zit in het &lt;a href=&#34;http://17bsb.be/&#34; title=&#34;Website van mijn scoutseenheid&#34;&gt;zeventiende BSB&lt;/a&gt; (Boy Scouts Belgium, een scoutseenheid van de FOS en gelegen in Deurne) en ik geef daar leiding aan de welpen.
+Om even uit te breiden over de scouts, ik zit in het &lt;a href=&#34;http://17bsb.be/&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Website van mijn scoutseenheid&#34;&gt;zeventiende BSB&lt;/a&gt; (Boy Scouts Belgium, een scoutseenheid van de FOS en gelegen in Deurne) en ik geef daar leiding aan de welpen.
 Ik volg judo sinds twee jaar en heb daar een oranje band behaald.
 Ik tennis sinds ongeveer vijf tot zeven jaar, maar deze jaren verliepen niet altijd vlak na elkaar, soms ging ik een jaar tennissen en soms niet.
-Lezen is iets wat ik graag doe, maar ik lees niet één bepaald soort boeken, ik kies boeken uit verschillende categorieën. Mijn favoriete boeken zijn geschreven door Scandinavische schrijvers, zoals &lt;a href=&#34;http://jonesbo.com/&#34; title=&#34;Website van Jo Nesbø&#34;&gt;Jo Nesbø&lt;/a&gt;.&lt;/p&gt;
+Lezen is iets wat ik graag doe, maar ik lees niet één bepaald soort boeken, ik kies boeken uit verschillende categorieën. Mijn favoriete boeken zijn geschreven door Scandinavische schrijvers, zoals &lt;a href=&#34;http://jonesbo.com/&#34; target=&#34;_blank&#34; rel=&#34;external&#34;  title=&#34;Website van Jo Nesbø&#34;&gt;Jo Nesbø&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;inhoud-van-de-website:3976528693a0108357f4928017600865&#34;&gt;Inhoud van de Website.&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Genially, un outil de présentation en ligne à découvrir &lt;a href=&#34;http://www.genial.ly/View/Index/56960c3b1561e80494248827&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Presentatie&#34;&gt;ICI&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Mon reportage photos du stage de ftc &lt;a href=&#34;http://www.genial.ly/View/Index/56b09f291561e80628aa5d2f&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Presentatie&#34;&gt;ICI&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;wat-brengt-de-toekomst:3976528693a0108357f4928017600865&#34;&gt;Wat brengt de toekomst?&lt;/h2&gt;
 
-&lt;p&gt;Momenteel denk ik eraan om de richting &lt;a href=&#34;https://www.ap.be/wetenschap-en-techniek/opleidingen/integrale-veiligheid&#34; title=&#34;Informatie over de richting Integrale Veiligheid&#34;&gt;Integrale Veiligheid&lt;/a&gt; te gaan studeren op de &lt;a href=&#34;https://www.ap.be/&#34; title=&#34;Site van AP&#34;&gt;AP(Artemis Plantijn)&lt;/a&gt; hogeschool in Antwerpen.&lt;br&gt;Als je meer wil te weten komen, dan kan je klikken op bovenstaande links.&lt;br /&gt;
-Momenteel ben ik bezig met het maken van de GIP-website en ik hoop later een app te schrijven.&lt;br /&gt;
+&lt;p&gt;Momenteel denk ik eraan om de richting &lt;a href=&#34;https://www.ap.be/wetenschap-en-techniek/opleidingen/integrale-veiligheid&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Informatie over de richting Integrale Veiligheid&#34;&gt;Integrale Veiligheid&lt;/a&gt; te gaan studeren op de &lt;a href=&#34;https://www.ap.be/&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Site van AP&#34;&gt;AP(Artemis Plantijn)&lt;/a&gt; hogeschool in Antwerpen.&lt;br /&gt;
+Als je meer wil te weten komen, dan kan je klikken op bovenstaande links.&lt;br /&gt;
+Momenteel ben ik bezig met het maken van de GIP-website en een applicatie te schrijven die werkt met de riot api.&lt;br /&gt;
 De GIP-website heeft als doel om de taken van de GIP, die normaal gezien elke keer opnieuw moet worden afgedrukt, digitaal te zetten. Daardoor kan iedereen de taken bekijken en wordt er veel papier bespaard.&lt;/p&gt;
 
 &lt;p&gt;Ik wens u alvast veel leesplezier op mijn website.&lt;/p&gt;

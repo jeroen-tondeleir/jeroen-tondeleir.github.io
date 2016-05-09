@@ -2,29 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taaks on Geïntegreerde proef</title>
-    <link>http://jeroen-tondeleir.github.io/taak/</link>
+    <link>jeroen-tondeleir.github.io/taak/</link>
     <description>Recent content in Taaks on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2015 15:50:37 +0200</lastBuildDate>
-    <atom:link href="http://jeroen-tondeleir.github.io/taak/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2016 11:15:01 +0200</lastBuildDate>
+    <atom:link href="jeroen-tondeleir.github.io/taak/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Huisstijl</title>
+      <link>/jeroen-tondeleir.github.io/taak/Huisstijl/</link>
+      <pubDate>Mon, 09 May 2016 11:15:01 +0200</pubDate>
+      
+      <guid>/jeroen-tondeleir.github.io/taak/Huisstijl/</guid>
+      <description>
+
+&lt;h1 id=&#34;huisstijl-ftc:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Huisstijl: FTC&lt;/h1&gt;
+
+&lt;h2 id=&#34;logo:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Logo:&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;jeroen-tondeleir.github.io/images/FTC_Logo.jpg&#34; alt=&#34;Logo FTC&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Kleuren: Oranje, zwart, wit en rood&lt;br /&gt;
+Er is gekozen voor deze kleuren omdat vroeger alles bombastisch flashy moest zijn, ze hebben gekozen voor zachte kleuren, less is more en info to the point. De dag van vandaag is dat de norm en ze blijven dat idee hoog in het vaandel dragen.&lt;/p&gt;
+
+&lt;p&gt;De volledige bedrijfsnaam zit in het logo, namelijk FTC PGeneration.&lt;br /&gt;
+FTC staat voor Fournitures Techniques Computers en PGeneration komt van vroeger. Toen Intel indertijd met hun Pentium processoren op de markt kwam, noemden ze dat zelf de P-generation. FTC wilde hiermee aantonen dat de toen recente nieuwe processoren ook in hun aanbod tweedehandscomputers zaten. Ondertussen zoveel jaren later zijn het nog altijd pentiumprocessoren die op de markt komen onder de namen i3-i5-i7.&lt;/p&gt;
+
+&lt;p&gt;De kleuren die je in het logo vindt kan je ook op heel de site terugvinden, het zijn dus duidelijk de kleuren van hun huisstijl.&lt;br /&gt;
+Site: &lt;a href=&#34;http://www.pgeneration.be/&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Site van pgeneration&#34;&gt;&lt;a href=&#34;http://www.pgeneration.be/&#34;&gt;http://www.pgeneration.be/&lt;/a&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&#34;jeroen-tondeleir.github.io/images/FTC_Site.jpg&#34; alt=&#34;Site FTC&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Het logo werd ontworpen The Boosting Company. De kosten zijn onbekend. Deze firma heeft een doorlichting van de werking en boekhouding van ftc gemaakt toen ze verhuisd zijn naar hun huidige locatie. En ze hebben een totaalfactuur gemaakt voor alle diensten die ze ftc geleverd hebben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sjabloon van de mail van een gewone werknemer (gebaseerd op die van Kevin Maes):&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Naam contactpersoon&lt;br /&gt;
+FTC bvba&lt;/p&gt;
+
+&lt;p&gt;03/645.49.40&lt;br /&gt;
+GSM-Nummer contactpersoon&lt;br /&gt;
+verkoop@ftc.be&lt;br /&gt;
+&lt;a href=&#34;http://www.ftc.be&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Site van FTC&#34;&gt;&lt;a href=&#34;http://www.ftc.be&#34;&gt;http://www.ftc.be&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;De sjabloon kan verschillen per werknemer omdat ze vrij zijn in hun onderschrift.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of a software tool in the training company: Teamleader.</title>
+      <link>/jeroen-tondeleir.github.io/taak/review/</link>
+      <pubDate>Mon, 09 May 2016 10:56:08 +0200</pubDate>
+      
+      <guid>/jeroen-tondeleir.github.io/taak/review/</guid>
+      <description>&lt;p&gt;Source: &lt;a href=&#34;https://www.getapp.com/customer-management-software/a/teamleader/&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Review of Teamleader&#34;&gt;review of Teamleader&lt;/a&gt;.&lt;br /&gt;
+Tool website: &lt;a href=&#34;http://public.teamleader.be/nl&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Official site of Teamleader&#34;&gt;&lt;a href=&#34;http://public.teamleader.be/nl&#34;&gt;http://public.teamleader.be/nl&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Teamleader is an online tool that offers CRM (Customer Relationship Management) which also offers invoicing and project planning.&lt;br /&gt;
+Teamleader wants to:&lt;br /&gt;
+- maintain an optimal relationship between the company using the tool and their hopefully satisfied customers,&lt;br /&gt;
+- offer the user the smoothest way from quotation to invoice,&lt;br /&gt;
+- show a clear and up-to-date overview of all your projects.&lt;br /&gt;
+At my training company the program is currently being used by the general manager, the representative, the website admin, the logistician and the technician. They are currently using the basic package of the tool supplemented with invoicing and project planning.&lt;/p&gt;
+
+&lt;p&gt;I think Jeroen De Wit developped the tool because he is currently the CEO of the company.
+Teamleader currently has this features: CRM, calendar, invoicing, sales, project planning, tickets, time tracking.&lt;br /&gt;
+They use time tracking to keep track of the time it takes to complete an order, they can also see how much time has passed since they had sent the bill to the company, how much time they have left to pay, or, if they are too late, they can see how many days.&lt;br /&gt;
+The price for Teamleader starts at 25 euro each month, for this you will be able to use the basic package and have access for 2 users. You need to pay for Teamleader each month, and depending on which features you take you will need to pay more each month. The pricing is €25 for CRM, €50 for invoicing and again €50 for projects and €10 for each additional user.
+There are a lot of tools that offer kind of the same thing. But this one is the most complete.
+The tool works in the cloud, with the information of your products and customers that you inserted you can easily create mails, letters, quotations and invoices.&lt;/p&gt;
+
+&lt;p&gt;The best thing about the tool is that it is all-in-one and online. However this could also cause a disaster if the server got hacked or if it is down.&lt;br /&gt;
+What I like about the tool is the fact that it is easily implemented and quite affordable starting from only 25 euro each month.&lt;br /&gt;
+I also like that the tool is localised, this means that they adapt the software to their target market. They keep in mind the suggestions of the users.&lt;/p&gt;
+
+&lt;p&gt;I agree with the review to a certain extent, because I do not agree that the tool is easy to use. I’m quite sure if you have a lot of experience with it it will be easy to use, but for starters with less experience it will be a small drawback until they figure out how to use it to the fullest.&lt;br /&gt;
+What I do not like about the tool is that you need to pay 10 euro extra for each additional user you want to give access to (separate accounts).&lt;/p&gt;
+
+&lt;p&gt;I would rate the tool a 7 out of 10.&lt;br /&gt;
+I recommend the tool to companies that are small to medium sized businesses.&lt;br /&gt;
+I would suggest this tool if they are a service-based industry.&lt;br /&gt;
+I would also recommend this tool to companies with the following departments/roles: Sales and marketing professionals, invoicing specialists, project managers and helpdesk personnel.&lt;br /&gt;
+Teamleader requires at least 25 euro each month for the basic package, if you want more  options and features you need to pay more.&lt;br /&gt;
+I recommend this tool because it’s one integrated tool so you’ll win time for what really matters: entrepreneurship.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FAQ</title>
-      <link>http://jeroen-tondeleir.github.io/taak/faq/</link>
+      <link>/jeroen-tondeleir.github.io/taak/faq/</link>
       <pubDate>Thu, 22 Oct 2015 15:50:37 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/taak/faq/</guid>
-      <description>&lt;p&gt;Hier komt de FAQ taak van frans.&lt;/p&gt;
+      <guid>/jeroen-tondeleir.github.io/taak/faq/</guid>
+      <description>&lt;p&gt;Genially, un outil de présentation en ligne à découvrir &lt;a href=&#34;http://www.genial.ly/View/Index/56960c3b1561e80494248827&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Presentatie&#34;&gt;ICI&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Workflows</title>
-      <link>http://jeroen-tondeleir.github.io/taak/Workflows/</link>
+      <link>/jeroen-tondeleir.github.io/taak/Workflows/</link>
       <pubDate>Thu, 22 Oct 2015 15:50:18 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/taak/Workflows/</guid>
+      <guid>/jeroen-tondeleir.github.io/taak/Workflows/</guid>
       <description>&lt;p&gt;Om eerlijk te zijn zou ik eerder kiezen voor hugo dan voor wordpress omdat je met hugo meer mogelijkheden hebt om iets te doen.&lt;br /&gt;
 Maar als ik 100% de keus had, dan zou ik voor hexo kiezen.&lt;br /&gt;
 Ik heb al tamelijk veel problemen gehad met hugo, vooral met het thema maar na een tijdje vond ik eindelijk mijn draai erin en kon ik deze site rechtzetten (dit was niet mogelijk zonder de hulp van anderen).&lt;/p&gt;
@@ -37,11 +118,48 @@ Ik heb al tamelijk veel problemen gehad met hugo, vooral met het thema maar na e
     
     <item>
       <title>IT autobiography</title>
-      <link>http://jeroen-tondeleir.github.io/taak/IT-autobiography/</link>
+      <link>/jeroen-tondeleir.github.io/taak/IT-autobiography/</link>
       <pubDate>Thu, 22 Oct 2015 15:01:25 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/taak/IT-autobiography/</guid>
-      <description>&lt;p&gt;Hier komt de IT-autobiography taak van Engels.&lt;/p&gt;
+      <guid>/jeroen-tondeleir.github.io/taak/IT-autobiography/</guid>
+      <description>
+
+&lt;h1 id=&#34;it-and-me:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;IT and me?&lt;/h1&gt;
+
+&lt;p&gt;Hi, my name is Jeroen Tondeleir and I am currently 18 years old, I’m in 6I at the Immaculata Institute.&lt;br /&gt;
+&lt;img src=&#34;jeroen-tondeleir.github.io/images/TondeleirJeroen.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I got in touch with IT at school, when we needed to work on computers.&lt;br /&gt;
+When I was 6 years old I received my first computer from my parents, it was a pc from Olivetti, and I was very happy with it although I couldn’t do much with it.
+I was quite amazed with the things I could do with it, especially the games opened a new world for me because I couldn’t access the internet back then.
+The games I could play were Minesweeper, 3D pinball and some card game.&lt;/p&gt;
+
+&lt;p&gt;Through the years IT got a new meaning for me, I began to discover that I could do more with a pc than play games. Since I knew that, my knowledge has kept on growing and I have started working with Microsoft’s products and some other programs. I find IT a very interesting and handy, but dangerous subject. I think it’s dangerous because it helps us so much in our daily life that we forget how to do things without it. For example a lot of people use a gps almost daily, if it suddenly doesn’t work anymore people will have a much harder time finding out the way to get to a location because they have worked more with a gps than with maps.&lt;/p&gt;
+
+&lt;p&gt;At this moment IT means a lot to me, because it allows me to work more efficiently and faster, it also helps me to get better grades because my handwriting is almost unreadable.
+I normally spend at least 4 hours each day on my computer.
+I work on a netbook, it’s very small but easy to take with you.
+I’m fascinated with the fact that IT opens a new world: instead of using books and looking information up, that would probably take ages, you can just look it up on the internet, there are a lot of handy tools you can use for free.
+There is definitely an evolution if I look back how I evolved because of IT, but it’s too much to sum up right now.
+If someone asked me if I was an expert, I would have to answer that negatively.
+I say this because I’m definitely not an expert at all, I know more than the people who don’t follow IT at school, but I still have a lot to learn.&lt;/p&gt;
+
+&lt;p&gt;This year I’m doing two internships at two different companies, the reason for this was because we thought it could help me to make a decision about my future and to learn more about hardware and software.
+After a month I realized that software was no good for me, but I happily discovered that I was pretty good when stuff came down to hardware. So I think if I decided to continue or fall back to IT it would probably be in the hardware sector.&lt;/p&gt;
+
+&lt;p&gt;Right now my vision of the future has changed quite a lot, at the end of the previous year I decided that I currently didn&amp;rsquo;t want to continue in IT.
+Currently I have set my eyes on Integrated Security, that topic seems a lot more fun than IT to me. The fact why I chose to do this is probably because IT doesn&amp;rsquo;t interest me that much anymore.
+However my current choice does not exclude IT from later in my life, but right now I just don&amp;rsquo;t feel like it anymore.&lt;/p&gt;
+
+&lt;p&gt;Integrated Security is not like Safety First, but it has more interesting concepts about it.
+I would love to learn more about safety prevention and another thing that&amp;rsquo;s very nice is the fact that you can get a job very quickly after you graduate.
+All these little things have contributed to my decision..&lt;/p&gt;
+
+&lt;p&gt;When I think about my aspirations, I just can’t think of any actually.&lt;/p&gt;
+
+&lt;p&gt;My life is quite intertwined with my pc, I am using it too much and not only to work for school, I used it too much to relax myself: like movies, browsing YouTube etc.
+IT has become a huge factor in my life because it will probably influence my life, hobbies and job later, it also is one of my biggest interests.&lt;/p&gt;
 </description>
     </item>
     
