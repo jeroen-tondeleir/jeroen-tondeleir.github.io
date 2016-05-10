@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflows on Geïntegreerde proef</title>
+    <link>http://jeroen-tondeleir.github.io/categories/workflows/</link>
+    <description>Recent content in Workflows on Geïntegreerde proef</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 15:50:18 +0200</lastBuildDate>
+    <atom:link href="http://jeroen-tondeleir.github.io/categories/workflows/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workflows vergelijken</title>
+      <link>http://jeroen-tondeleir.github.io/taak/workflows/</link>
+      <pubDate>Thu, 22 Oct 2015 15:50:18 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/workflows/</guid>
+      <description>&lt;p&gt;Om eerlijk te zijn zou ik eerder kiezen voor hugo dan voor wordpress omdat je met hugo meer mogelijkheden hebt om iets te doen.&lt;br /&gt;
+Maar als ik 100% de keus had, dan zou ik voor hexo kiezen.&lt;br /&gt;
+Ik heb al tamelijk veel problemen gehad met hugo, vooral met het thema maar na een tijdje vond ik eindelijk mijn draai erin en kon ik deze site rechtzetten (dit was niet mogelijk zonder de hulp van anderen).&lt;/p&gt;
+
+&lt;p&gt;Hugo werkt met templates waarin staat hoe er een bepaalde post of pagina wordt weergeven, ik snap hier nog niet zoveel van maar ik hoop om hier snel meer over te weten.&lt;/p&gt;
+
+&lt;p&gt;Hugo geeft ook veel keuze aan thema&amp;rsquo;s het kan zijn dat ik nog van thema verander, maar ik wil eerst hugo beter doorhebben door meer te oefenen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reportage on Geïntegreerde proef</title>
+    <link>http://jeroen-tondeleir.github.io/tags/reportage/</link>
+    <description>Recent content in Reportage on Geïntegreerde proef</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Feb 2016 15:50:18 +0200</lastBuildDate>
+    <atom:link href="http://jeroen-tondeleir.github.io/tags/reportage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reportage photos du stage de ftc</title>
+      <link>http://jeroen-tondeleir.github.io/taak/reportage-du-stage/</link>
+      <pubDate>Wed, 17 Feb 2016 15:50:18 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/reportage-du-stage/</guid>
+      <description>&lt;p&gt;Mon reportage photos du stage de ftc &lt;a href=&#34;http://www.genial.ly/View/Index/56b09f291561e80628aa5d2f&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Presentatie&#34;&gt;ICI&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

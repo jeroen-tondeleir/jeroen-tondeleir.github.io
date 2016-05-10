@@ -6,20 +6,60 @@
     <description>Recent content in Taaks on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2016 11:15:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 May 2016 21:31:33 +0200</lastBuildDate>
     <atom:link href="http://jeroen-tondeleir.github.io/taak/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Huisstijl</title>
-      <link>http://jeroen-tondeleir.github.io/taak/Huisstijl/</link>
+      <title>IT-profile</title>
+      <link>http://jeroen-tondeleir.github.io/taak/it-profile/</link>
+      <pubDate>Tue, 10 May 2016 21:31:33 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/it-profile/</guid>
+      <description>&lt;p&gt;Pagina onder constructie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simulatie m.b.v. een interactieve (client-side web-)applicatie</title>
+      <link>http://jeroen-tondeleir.github.io/taak/applicatie-web/</link>
+      <pubDate>Tue, 10 May 2016 21:29:31 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/applicatie-web/</guid>
+      <description>&lt;p&gt;Pagina onder constructie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analyseren, ontwerpen en implementeren van een applicatie met database</title>
+      <link>http://jeroen-tondeleir.github.io/taak/applicatie-database/</link>
+      <pubDate>Tue, 10 May 2016 21:25:27 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/applicatie-database/</guid>
+      <description>&lt;p&gt;Pagina onder constructie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case study voor het stagebedrijf</title>
+      <link>http://jeroen-tondeleir.github.io/taak/case-study/</link>
+      <pubDate>Tue, 10 May 2016 21:23:25 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/case-study/</guid>
+      <description>&lt;p&gt;Pagina onder constructie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huisstijl van het stagebedrijf</title>
+      <link>http://jeroen-tondeleir.github.io/taak/huisstijl/</link>
       <pubDate>Mon, 09 May 2016 11:15:01 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/taak/Huisstijl/</guid>
+      <guid>http://jeroen-tondeleir.github.io/taak/huisstijl/</guid>
       <description>
 
-&lt;h1 id=&#34;huisstijl-ftc:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Huisstijl: FTC&lt;/h1&gt;
+&lt;h1 id=&#34;huisstijl-van-het-stagebedrijf-ftc:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;Huisstijl van het stagebedrijf: FTC&lt;/h1&gt;
 
-&lt;h2 id=&#34;logo:c26402fcb5c873e041a3fc3cfadcc12d&#34;&gt;Logo:&lt;/h2&gt;
+&lt;h2 id=&#34;logo:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;Logo:&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/FTC_Logo.jpg&#34; alt=&#34;Logo FTC&#34; /&gt;&lt;/p&gt;
 
@@ -50,11 +90,11 @@ verkoop@ftc.be&lt;br /&gt;
     </item>
     
     <item>
-      <title>Review of a software tool in the training company: Teamleader.</title>
-      <link>http://jeroen-tondeleir.github.io/taak/review/</link>
+      <title>Review of a software tool in the training company: FTC.</title>
+      <link>http://jeroen-tondeleir.github.io/taak/softwaretool-review/</link>
       <pubDate>Mon, 09 May 2016 10:56:08 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/taak/review/</guid>
+      <guid>http://jeroen-tondeleir.github.io/taak/softwaretool-review/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://www.getapp.com/customer-management-software/a/teamleader/&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Review of Teamleader&#34;&gt;review of Teamleader&lt;/a&gt;.&lt;br /&gt;
 Tool website: &lt;a href=&#34;http://public.teamleader.be/nl&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Official site of Teamleader&#34;&gt;&lt;a href=&#34;http://public.teamleader.be/nl&#34;&gt;http://public.teamleader.be/nl&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -89,9 +129,19 @@ I recommend this tool because it’s one integrated tool so you’ll win time fo
     </item>
     
     <item>
-      <title>FAQ</title>
+      <title>Reportage photos du stage de ftc</title>
+      <link>http://jeroen-tondeleir.github.io/taak/reportage-du-stage/</link>
+      <pubDate>Wed, 17 Feb 2016 15:50:18 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/reportage-du-stage/</guid>
+      <description>&lt;p&gt;Mon reportage photos du stage de ftc &lt;a href=&#34;http://www.genial.ly/View/Index/56b09f291561e80628aa5d2f&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Presentatie&#34;&gt;ICI&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAQ: Foire Aux Questions de Génially</title>
       <link>http://jeroen-tondeleir.github.io/taak/faq/</link>
-      <pubDate>Thu, 22 Oct 2015 15:50:37 +0200</pubDate>
+      <pubDate>Wed, 13 Jan 2016 15:50:37 +0200</pubDate>
       
       <guid>http://jeroen-tondeleir.github.io/taak/faq/</guid>
       <description>&lt;p&gt;Genially, un outil de présentation en ligne à découvrir &lt;a href=&#34;http://www.genial.ly/View/Index/56960c3b1561e80494248827&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Presentatie&#34;&gt;ICI&lt;/a&gt;.&lt;/p&gt;
@@ -99,30 +149,14 @@ I recommend this tool because it’s one integrated tool so you’ll win time fo
     </item>
     
     <item>
-      <title>Workflows</title>
-      <link>http://jeroen-tondeleir.github.io/taak/Workflows/</link>
-      <pubDate>Thu, 22 Oct 2015 15:50:18 +0200</pubDate>
-      
-      <guid>http://jeroen-tondeleir.github.io/taak/Workflows/</guid>
-      <description>&lt;p&gt;Om eerlijk te zijn zou ik eerder kiezen voor hugo dan voor wordpress omdat je met hugo meer mogelijkheden hebt om iets te doen.&lt;br /&gt;
-Maar als ik 100% de keus had, dan zou ik voor hexo kiezen.&lt;br /&gt;
-Ik heb al tamelijk veel problemen gehad met hugo, vooral met het thema maar na een tijdje vond ik eindelijk mijn draai erin en kon ik deze site rechtzetten (dit was niet mogelijk zonder de hulp van anderen).&lt;/p&gt;
-
-&lt;p&gt;Hugo werkt met templates waarin staat hoe er een bepaalde post of pagina wordt weergeven, ik snap hier nog niet zoveel van maar ik hoop om hier snel meer over te weten.&lt;/p&gt;
-
-&lt;p&gt;Hugo geeft ook veel keuze aan thema&amp;rsquo;s het kan zijn dat ik nog van thema verander, maar ik wil eerst hugo beter doorhebben door meer te oefenen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>IT autobiography</title>
-      <link>http://jeroen-tondeleir.github.io/taak/IT-autobiography/</link>
-      <pubDate>Thu, 22 Oct 2015 15:01:25 +0200</pubDate>
+      <link>http://jeroen-tondeleir.github.io/taak/it-autobiography/</link>
+      <pubDate>Tue, 15 Dec 2015 15:01:25 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/taak/IT-autobiography/</guid>
+      <guid>http://jeroen-tondeleir.github.io/taak/it-autobiography/</guid>
       <description>
 
-&lt;h1 id=&#34;it-and-me:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;IT and me?&lt;/h1&gt;
+&lt;h1 id=&#34;it-and-me:fe263c8ece748dfdf9c5032d5d9ee98a&#34;&gt;IT and me?&lt;/h1&gt;
 
 &lt;p&gt;Hi, my name is Jeroen Tondeleir and I am currently 18 years old, I’m in 6I at the Immaculata Institute.&lt;br /&gt;
 &lt;img src=&#34;http://jeroen-tondeleir.github.io/images/TondeleirJeroen.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -157,6 +191,22 @@ All these little things have contributed to my decision..&lt;/p&gt;
 
 &lt;p&gt;My life is quite intertwined with my pc, I am using it too much and not only to work for school, I used it too much to relax myself: like movies, browsing YouTube etc.
 IT has become a huge factor in my life because it will probably influence my life, hobbies and job later, it also is one of my biggest interests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workflows vergelijken</title>
+      <link>http://jeroen-tondeleir.github.io/taak/workflows/</link>
+      <pubDate>Thu, 22 Oct 2015 15:50:18 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/workflows/</guid>
+      <description>&lt;p&gt;Om eerlijk te zijn zou ik eerder kiezen voor hugo dan voor wordpress omdat je met hugo meer mogelijkheden hebt om iets te doen.&lt;br /&gt;
+Maar als ik 100% de keus had, dan zou ik voor hexo kiezen.&lt;br /&gt;
+Ik heb al tamelijk veel problemen gehad met hugo, vooral met het thema maar na een tijdje vond ik eindelijk mijn draai erin en kon ik deze site rechtzetten (dit was niet mogelijk zonder de hulp van anderen).&lt;/p&gt;
+
+&lt;p&gt;Hugo werkt met templates waarin staat hoe er een bepaalde post of pagina wordt weergeven, ik snap hier nog niet zoveel van maar ik hoop om hier snel meer over te weten.&lt;/p&gt;
+
+&lt;p&gt;Hugo geeft ook veel keuze aan thema&amp;rsquo;s het kan zijn dat ik nog van thema verander, maar ik wil eerst hugo beter doorhebben door meer te oefenen.&lt;/p&gt;
 </description>
     </item>
     

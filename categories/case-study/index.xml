@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case Study on Geïntegreerde proef</title>
+    <link>http://jeroen-tondeleir.github.io/categories/case-study/</link>
+    <description>Recent content in Case Study on Geïntegreerde proef</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 May 2016 21:23:25 +0200</lastBuildDate>
+    <atom:link href="http://jeroen-tondeleir.github.io/categories/case-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Case study voor het stagebedrijf</title>
+      <link>http://jeroen-tondeleir.github.io/taak/case-study/</link>
+      <pubDate>Tue, 10 May 2016 21:23:25 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/case-study/</guid>
+      <description>&lt;p&gt;Pagina onder constructie&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
