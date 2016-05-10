@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faq on Geïntegreerde proef</title>
-    <link>jeroen-tondeleir.github.io/tags/faq/</link>
+    <link>http://jeroen-tondeleir.github.io/tags/faq/</link>
     <description>Recent content in Faq on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 15:50:37 +0200</lastBuildDate>
-    <atom:link href="jeroen-tondeleir.github.io/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jeroen-tondeleir.github.io/tags/faq/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FAQ</title>
-      <link>/jeroen-tondeleir.github.io/taak/faq/</link>
+      <link>http://jeroen-tondeleir.github.io/taak/faq/</link>
       <pubDate>Thu, 22 Oct 2015 15:50:37 +0200</pubDate>
       
-      <guid>/jeroen-tondeleir.github.io/taak/faq/</guid>
+      <guid>http://jeroen-tondeleir.github.io/taak/faq/</guid>
       <description>&lt;p&gt;Genially, un outil de présentation en ligne à découvrir &lt;a href=&#34;http://www.genial.ly/View/Index/56960c3b1561e80494248827&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Presentatie&#34;&gt;ICI&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
