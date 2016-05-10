@@ -42,6 +42,11 @@
 &lt;p&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Gip-Taak_TondeleirJeroen.png&#34; alt=&#34;Schema&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;uitleg:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Uitleg:&lt;/h2&gt;
+
+&lt;p&gt;Het was de bedoeling dat we een applicatie ontwerpten met een bepaald doel en die ook implementeerden.
+Ik had een soort van forumapplicatie ontworpen.&lt;br /&gt;
+Je had een Anonieme gebruiker, die kon discussie&amp;rsquo;s bekijken en zich registreren als een gebruiker.&lt;br /&gt;
+Een geregristreerde gebruiker kon zijn account beheren en een discussie bekijken, maken of erop reageren.&lt;/p&gt;
 </description>
     </item>
     
@@ -52,6 +57,8 @@
       
       <guid>http://jeroen-tondeleir.github.io/taak/case-study/</guid>
       <description>&lt;p&gt;Pagina onder constructie&lt;/p&gt;
+
+&lt;p&gt;Mijn volledige case-study kan u &lt;a href=&#34;http://jeroen-tondeleir.github.io/taak/case-study-full&#34;&gt;hier&lt;/a&gt; terugvinden.&lt;/p&gt;
 </description>
     </item>
     
@@ -131,6 +138,57 @@ I would suggest this tool if they are a service-based industry.&lt;br /&gt;
 I would also recommend this tool to companies with the following departments/roles: Sales and marketing professionals, invoicing specialists, project managers and helpdesk personnel.&lt;br /&gt;
 Teamleader requires at least 25 euro each month for the basic package, if you want more  options and features you need to pay more.&lt;br /&gt;
 I recommend this tool because it’s one integrated tool so you’ll win time for what really matters: entrepreneurship.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case study (volledige versie)</title>
+      <link>http://jeroen-tondeleir.github.io/taak/case-study-full/</link>
+      <pubDate>Wed, 17 Feb 2016 15:50:18 +0200</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/taak/case-study-full/</guid>
+      <description>
+
+&lt;h2 id=&#34;inleiding:dd2ff4e5026d017b81807492c9b5df56&#34;&gt;Inleiding&lt;/h2&gt;
+
+&lt;h3 id=&#34;stagebedrijf-en-de-case-study:dd2ff4e5026d017b81807492c9b5df56&#34;&gt;Stagebedrijf en de case-study&lt;/h3&gt;
+
+&lt;p&gt;Ik heb in het begin van het jaar met het stagebedrijf (FTC (Fournitures Techniques Co)) gesproken over een onderwerp over de Case Study en ze hebben mij gezegd dat ik het over Teamleader kon doen (een programma dat ze gebruiken voor facturatie etc)&lt;/p&gt;
+
+&lt;h3 id=&#34;wat-is-teamleader:dd2ff4e5026d017b81807492c9b5df56&#34;&gt;Wat is teamleader?&lt;/h3&gt;
+
+&lt;p&gt;Het is een online tool die CRM (Customer Relationship Management aka klantrelatiebeheer), projectplanning en facturatie aanbiedt.
+De visie van teamleader:
+Optimale relaties en tevreden klanten.
+De makkelijkste weg van offerte naar factuur.
+Duidelijke stand van zaken voor elk project&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag:dd2ff4e5026d017b81807492c9b5df56&#34;&gt;Verslag&lt;/h2&gt;
+
+&lt;p&gt;FTC gebruikt Teamleader voornamelijk om hun facturen, klantengegevens en producten (voorraad) te beheren.
+Het programma wordt momenteel enkel gebruikt door Thibaut Jehin (de zaakvoerder), Kevin Maes (de vertegenwoordiger), Ivan (de website admin), Anita (logistiek) en Ben (techniek).&lt;br /&gt;
+&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Teamleader_Basispakket.jpg&#34; alt=&#34;Teamleader basispakket&#34; /&gt;&lt;br /&gt;
+Er is gekozen voor dit programma omdat meerdere handige functies (zoals bovenstaande), geïntegreerd zijn in één handige tool.
+Het is bovendien redelijk snel en gemakkelijk voor basisgebruik. Het basispakket kost 25 euro per maand, u heeft dan toegang tot de onderstaande functies.&lt;/p&gt;
+
+&lt;p&gt;Per gebruiker die je extra wil, betaal je 10 euro extra. U hebt ook nog de keuze tussen 3 extra functies: facturatie, projecten en ticketing.
+U betaalt respectievelijk 25 euro, 50 euro en 50 euro extra per maand om deze functies te kunnen gebruiken.&lt;br /&gt;
+Schema van de prijzen:&lt;br /&gt;
+&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Teamleader_Prijzen.jpg&#34; alt=&#34;Teamleader basispakket&#34; /&gt;&lt;br /&gt;
+Momenteel betaalt FTC 100 euro per maand om Teamleader te gebruiken. Dus hieruit kunnen we afleiden dat FTC betaalt voor het basispakket aangevuld met de facturatie en project optie.&lt;/p&gt;
+
+&lt;p&gt;FTC is tevreden over dit softwarepakket. Momenteel gebruiken ze sommige functies die in het basispakket zitten niet.
+Een aantal tools in het basispakket zijn volgens Mhr. Jehin niet erg gebruiksvriendelijk.
+Ze vinden het zeker niet het goedkoopste pakket maar wel heel volledig (offertes, facturen, klantenbestand, nieuwe klant vult aan op basis van btw nummer, tickets, time management, bestelbons, leveringsbons) en het is zeer performant.
+Bovendien draait het ook nog in de cloud dus bij thuiswerk is het ook beschikbaar zonder ergens remote te moeten inloggen.
+De servers zijn ten allen tijde beschikbaar, dit komt omdat hun servers AWS (Amazon Web Services) gebruikt om hun data te beheren.
+Alle data is redundant opgeslagen (dit betekent dat de data dubbel of zelfs drievoudig wordt opgeslagen) en automatisch wordt geback-upt.
+De server architectuur en netwerkconnectie zijn volledig redundant, dus zelfs als een hardware component uitvalt, blijft Teamleader toegankelijk.
+Bovendien hebben ze ook nog een smartphone app zodat je onderweg ook nog gegevens kan ingeven en consulteren.
+Persoonlijk gebruikt Mhr. Maes de app veel in de file als klanten bellen.&lt;/p&gt;
+
+&lt;p&gt;FTC had een drietal pakketten bekeken, waaronder Ciel, Teamleader en een derde pakket waar ze de naam niet meer van weten, maar ze hadden tamelijk snel de keuze gemaakt.
+Dit kwam vooral door de dringende nood aan een pakket en omdat ze met flinke groeipijnen zaten. Daar kwam ook nog bij dat de vorige manier van werken, namelijk de facturen en offertes in Excel maken, niet meer hanteerbaar was.&lt;/p&gt;
 </description>
     </item>
     
