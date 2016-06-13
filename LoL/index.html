@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>League Of Legends API</title>
+  <style>
+  .omkader {
+    border: 10px solid black;
+  }
+
+  .centreer {
+    margin: auto;
+  }
+  </style>
+</head>
+  <body>
+    <input type='input' id='lol-input'></input>
+    <button onclick='do_the_thing();'>Submit!</button>
+
+    <script>
+      function do_the_thing() {
+        var inputbox = document.querySelector('#lol-input');
+        LookUpSummonerInformation(inputbox.value);
+      }
+    </script>
+
+    <div id="infoArea">
+		<div id="SummonerName"></div>
+		<div id="SummonerLevel"></div>
+	</div>
+	
+    <script src="LoL.js"></script>
+  </body>
+</html>

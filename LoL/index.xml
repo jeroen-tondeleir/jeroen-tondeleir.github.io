@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LoLs on Geïntegreerde proef</title>
+    <link>http://jeroen-tondeleir.github.io/lol/</link>
+    <description>Recent content in LoLs on Geïntegreerde proef</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://jeroen-tondeleir.github.io/lol/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://jeroen-tondeleir.github.io/lol/README/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/lol/README/</guid>
+      <description>&lt;p&gt;Met dit experiment bouw ik verder op mijn vorige resultaten.&lt;br /&gt;
+Nu is het de bedoeling dat ik wat meer informatie laat zien over de gebruiker en zijn matchen laat zien.&lt;br /&gt;
+Huidige tests:&lt;br /&gt;
+        - 10 recentste matchen laten zien (momenteel geeft het alle ranked matchen weer).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jeroen-tondeleir.github.io/lol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeroen-tondeleir.github.io/lol/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;League Of Legends API&lt;/title&gt;
+  &lt;style&gt;
+  .omkader {
+    border: 10px solid black;
+  }
+
+  .centreer {
+    margin: auto;
+  }
+  &lt;/style&gt;
+&lt;/head&gt;
+  &lt;body&gt;
+    &lt;input type=&#39;input&#39; id=&#39;lol-input&#39;&gt;&lt;/input&gt;
+    &lt;button onclick=&#39;do_the_thing();&#39;&gt;Submit!&lt;/button&gt;
+
+    &lt;script&gt;
+      function do_the_thing() {
+        var inputbox = document.querySelector(&#39;#lol-input&#39;);
+        LookUpSummonerInformation(inputbox.value);
+      }
+    &lt;/script&gt;
+
+    &lt;div id=&#34;infoArea&#34;&gt;
+		&lt;div id=&#34;SummonerName&#34;&gt;&lt;/div&gt;
+		&lt;div id=&#34;SummonerLevel&#34;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	
+    &lt;script src=&#34;LoL.js&#34;&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
