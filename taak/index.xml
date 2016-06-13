@@ -15,7 +15,70 @@
       <pubDate>Tue, 10 May 2016 21:31:33 +0200</pubDate>
       
       <guid>http://jeroen-tondeleir.github.io/taak/it-profile/</guid>
-      <description>&lt;p&gt;pagina onder constructie&lt;/p&gt;
+      <description>
+
+&lt;style&gt;
+.holder{
+    width:250px;
+    height:20px;
+    background:grey;
+    border-radius:5px;
+    border:none;
+    transition: border .5s;
+}
+.filler{
+    height:100%;
+    background: red;
+    border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+    font-weight:bold;
+}
+.holder:hover{
+    border:5px solid grey;
+    transition: border .3s;
+}
+
+p{
+    margin:0;
+    padding:0;
+}
+
+.holder:hover p{
+    opacity:1 !important;
+    transition: opacity .3s;
+}
+&lt;/style&gt;
+
+&lt;h1 id=&#34;it-profile:800e531670eddd232e58b1524fc60e60&#34;&gt;IT-profile&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Hier kunt u een beeld vormen van mijn vaardigheid in een bepaalde programmeertaal.
+Deze cijfers worden weergeven op een schaal van 0 tot 100%
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;Legende&lt;/h2&gt;
+&lt;b&gt;0%&lt;/b&gt; ik kan/begrijp er niks van.&lt;br&gt;
+&lt;b&gt;20%:&lt;/b&gt; ik begrijp de taal, maar ik kan hem moeilijk gebruiken.&lt;br&gt;
+&lt;b&gt;40%:&lt;/b&gt; deze taal kan ik gebruiken a.d.h.v. internet, boeken en andere documentatie.&lt;br&gt;
+&lt;b&gt;60%:&lt;/b&gt; deze taal kan ik gebruiken op een beginnersniveau.&lt;br&gt;
+&lt;b&gt;80%:&lt;/b&gt; ik kan deze taal tamelijk goed.&lt;br&gt;
+&lt;b&gt;100%:&lt;/b&gt; ik kan deze taal zéér goed.&lt;br&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;Programeertaal&lt;/h2&gt;
+&lt;h3&gt;HTML&lt;/h3&gt;
+&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:70%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;70%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;C#&lt;/h3&gt;
+&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;63%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;VBA&lt;/h3&gt;
+&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;84%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;Javascript&lt;/h3&gt;
+&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;76%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;CSS&lt;/h3&gt;
+&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;62%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;JQuery&lt;/h3&gt;
+&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;59%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -108,14 +171,12 @@ Dit kwam vooral door de dringende nood aan een pakket en omdat ze met flinke gro
     </item>
     
     <item>
-      <title>Huisstijl van het stagebedrijf</title>
+      <title>Huisstijl van het stagebedrijf: FTC</title>
       <link>http://jeroen-tondeleir.github.io/taak/huisstijl/</link>
       <pubDate>Mon, 09 May 2016 11:15:01 +0200</pubDate>
       
       <guid>http://jeroen-tondeleir.github.io/taak/huisstijl/</guid>
       <description>
-
-&lt;h1 id=&#34;huisstijl-van-het-stagebedrijf-ftc:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;Huisstijl van het stagebedrijf: FTC&lt;/h1&gt;
 
 &lt;h2 id=&#34;logo:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;Logo:&lt;/h2&gt;
 
