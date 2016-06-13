@@ -15,43 +15,59 @@
       <pubDate>Tue, 10 May 2016 21:31:33 +0200</pubDate>
       
       <guid>http://jeroen-tondeleir.github.io/taak/it-profile/</guid>
-      <description>
-
-&lt;style&gt;
+      <description>&lt;style&gt;
 .holder{
-    width:250px;
-    height:20px;
-    background:grey;
-    border-radius:5px;
+    width: 100%;
+    height:5px;
+    background: #5e5e5e;
     border:none;
-    transition: border .5s;
+    transition: height .5s;
+    overflow: hidden;
 }
 .filler{
     height:100%;
-    background: red;
-    border-top-left-radius:5px;
-    border-bottom-left-radius:5px;
-    font-weight:bold;
+    float:left;
+    background: #101010;
 }
-.holder:hover{
-    border:5px solid grey;
-    transition: border .3s;
+.langProc{
+    text-align: right;
+    color: #9e9e9e;
+    right: 0;
+    top: 0;
+    float: right;
+    margin: 25px 27px;
+    font-size: 46px;
+    font-family: MuseoSans, serif;
+    font-weight: 100;
+}
+.langCont{
+    height: auto;
+    padding: 27.5px 0;
+    transition: height .3s;
+}
+.langCont:hover{
+    height: auto;
+    transition: height .3s;
+}
+.langCont:hover .holder{
+    height: 100px;
+    transition: height .3s;
+}
+.langCont:hover img{
+    opacity: 1;
+    transition: opacity 1s;
+}
+.langCont:hover .filler{
+    background: #23527c;
+    transition: background .5s;
+}
+.langCont img{
+    height:100%;
+    opacity:0;
+    transition: opacity .1s;
 }
 
-p{
-    margin:0;
-    padding:0;
-}
-
-.holder:hover p{
-    opacity:1 !important;
-    transition: opacity .3s;
-}
 &lt;/style&gt;
-
-&lt;h1 id=&#34;it-profile:800e531670eddd232e58b1524fc60e60&#34;&gt;IT-profile&lt;/h1&gt;
-
-&lt;hr /&gt;
 
 &lt;p&gt;Hier kunt u een beeld vormen van mijn vaardigheid in een bepaalde programmeertaal.
 Deze cijfers worden weergeven op een schaal van 0 tot 100%
@@ -67,18 +83,30 @@ Deze cijfers worden weergeven op een schaal van 0 tot 100%
 &lt;br&gt;
 &lt;hr&gt;
 &lt;h2&gt;Programeertaal&lt;/h2&gt;
+&lt;div class=&#34;langCont&#34;&gt;
 &lt;h3&gt;HTML&lt;/h3&gt;
-&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:70%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;70%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:70%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/internet html.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;70%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;langCont&#34;&gt;
 &lt;h3&gt;C#&lt;/h3&gt;
-&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;63%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/visual csharp.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;langCont&#34;&gt;
 &lt;h3&gt;VBA&lt;/h3&gt;
-&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;84%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/vba-logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;80%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;langCont&#34;&gt;
 &lt;h3&gt;Javascript&lt;/h3&gt;
-&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;76%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/logo_javascript.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;80%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;langCont&#34;&gt;
 &lt;h3&gt;CSS&lt;/h3&gt;
-&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;62%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/internet css.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;langCont&#34;&gt;
 &lt;h3&gt;JQuery&lt;/h3&gt;
-&lt;div class=&#34;holder&#34; style=&#34;width:250px;height:20px;background:grey;border-radius:5px;&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;height:100%;background: red;border-top-left-radius:5px;border-bottom-left-radius:5px;font-weight:bold;float:left;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;&lt;p style=&#34;opacity:0;&#34;&gt;59%&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/JQuery.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
