@@ -6,6 +6,7 @@
     <description>Recent content in Applicatie Database on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2016, Jeroen Tondeleir; All rights reserved.</copyright>
     <lastBuildDate>Tue, 10 May 2016 21:25:27 +0200</lastBuildDate>
     <atom:link href="http://jeroen-tondeleir.github.io/categories/applicatie-database/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,11 +18,11 @@
       <guid>http://jeroen-tondeleir.github.io/taak/applicatie-database/</guid>
       <description>
 
-&lt;h2 id=&#34;schema:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Schema:&lt;/h2&gt;
+&lt;h2 id=&#34;schema:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Schema&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Gip-Taak_TondeleirJeroen.png&#34; alt=&#34;Schema&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;uitleg:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Uitleg:&lt;/h2&gt;
+&lt;h2 id=&#34;uitleg:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Uitleg&lt;/h2&gt;
 
 &lt;p&gt;Het was de bedoeling dat we een applicatie ontwerpten met een bepaald doel en die ook implementeerden.
 Ik had een soort van forumapplicatie ontworpen.&lt;br /&gt;

@@ -6,6 +6,7 @@
     <description>Recent content in Taaks on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2016, Jeroen Tondeleir; All rights reserved.</copyright>
     <lastBuildDate>Tue, 10 May 2016 21:31:33 +0200</lastBuildDate>
     <atom:link href="http://jeroen-tondeleir.github.io/taak/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +16,13 @@
       <pubDate>Tue, 10 May 2016 21:31:33 +0200</pubDate>
       
       <guid>http://jeroen-tondeleir.github.io/taak/it-profile/</guid>
-      <description>&lt;style&gt;
+      <description>
+
+&lt;style&gt;
 .holder{
     width: 100%;
     height:5px;
-    background: #5e5e5e;
+    background: #bebebe;
     border:none;
     transition: height .5s;
     overflow: hidden;
@@ -29,16 +32,16 @@
     float:left;
     background: #101010;
 }
-.langProc{
+.langProc {
     text-align: right;
     color: #9e9e9e;
     right: 0;
     top: 0;
     float: right;
-    margin: 25px 27px;
+    margin: 27px 25px;
     font-size: 46px;
-    font-family: MuseoSans, serif;
     font-weight: 100;
+    line-height: 46px;
 }
 .langCont{
     height: auto;
@@ -69,44 +72,147 @@
 
 &lt;/style&gt;
 
-&lt;p&gt;Hier kunt u een beeld vormen van mijn vaardigheid in een bepaalde programmeertaal.
+&lt;p&gt;Hier kunt u een beeld vormen van mijn vaardigheid in een bepaalde software of een programma.
 Deze cijfers worden weergeven op een schaal van 0 tot 100%
 &lt;br&gt;
-&lt;hr&gt;
-&lt;h2&gt;Legende&lt;/h2&gt;
-&lt;b&gt;0%&lt;/b&gt; ik kan/begrijp er niks van.&lt;br&gt;
-&lt;b&gt;20%:&lt;/b&gt; ik begrijp de taal, maar ik kan hem moeilijk gebruiken.&lt;br&gt;
-&lt;b&gt;40%:&lt;/b&gt; deze taal kan ik gebruiken a.d.h.v. internet, boeken en andere documentatie.&lt;br&gt;
-&lt;b&gt;60%:&lt;/b&gt; deze taal kan ik gebruiken op een beginnersniveau.&lt;br&gt;
-&lt;b&gt;80%:&lt;/b&gt; ik kan deze taal tamelijk goed.&lt;br&gt;
-&lt;b&gt;100%:&lt;/b&gt; ik kan deze taal zéér goed.&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;legende:800e531670eddd232e58b1524fc60e60&#34;&gt;Legende&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;0%&lt;/b&gt; ik kan/begrijp er niks van.&lt;br&gt;
+&lt;b&gt;20%:&lt;/b&gt; ik begrijp het, maar ik kan het moeilijk gebruiken.&lt;br&gt;
+&lt;b&gt;40%:&lt;/b&gt; ik kan het gebruiken a.d.h.v. internet, boeken en andere documentatie.&lt;br&gt;
+&lt;b&gt;60%:&lt;/b&gt; ik kan het gebruiken op een beginnersniveau.&lt;br&gt;
+&lt;b&gt;80%:&lt;/b&gt; ik kan het tamelijk goed gebruiken.&lt;br&gt;
+&lt;b&gt;100%:&lt;/b&gt; ik kan het zéér goed gebruiken.&lt;br&gt;
 &lt;br&gt;
-&lt;hr&gt;
-&lt;h2&gt;Programeertaal&lt;/h2&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;software:800e531670eddd232e58b1524fc60e60&#34;&gt;Software&lt;/h2&gt;
+
+&lt;h3 id=&#34;softwareontwikkeling:800e531670eddd232e58b1524fc60e60&#34;&gt;Softwareontwikkeling&lt;/h3&gt;
+
 &lt;div class=&#34;langCont&#34;&gt;
-&lt;h3&gt;HTML&lt;/h3&gt;
-    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:70%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/internet html.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;70%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4&gt;C#&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:65%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/visual csharp.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;65%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
+
 &lt;div class=&#34;langCont&#34;&gt;
-&lt;h3&gt;C#&lt;/h3&gt;
-    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/visual csharp.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;langCont&#34;&gt;
-&lt;h3&gt;VBA&lt;/h3&gt;
+&lt;h4&gt;VBA&lt;/h4&gt;
     &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/vba-logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;80%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
+
 &lt;div class=&#34;langCont&#34;&gt;
-&lt;h3&gt;Javascript&lt;/h3&gt;
+&lt;h4&gt;Javascript&lt;/h4&gt;
     &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/logo_javascript.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;80%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
+
 &lt;div class=&#34;langCont&#34;&gt;
-&lt;h3&gt;CSS&lt;/h3&gt;
+&lt;h4&gt;JQuery&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/JQuery.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;PHP&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:70%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/internet php.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;70%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;MySQL&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:75%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/MySQL.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;75%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;webapplicaties:800e531670eddd232e58b1524fc60e60&#34;&gt;Webapplicaties&lt;/h3&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;HTML&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:70%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/internet html.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;70%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;CSS&lt;/h4&gt;
     &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/internet css.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
+
 &lt;div class=&#34;langCont&#34;&gt;
-&lt;h3&gt;JQuery&lt;/h3&gt;
-    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/JQuery.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;h4&gt;GIT&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:87%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/git logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;87%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Wordpress&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:58%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Wordpress logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;58%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Joomla&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:66%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Joomla logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;66%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;WPF&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:63%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/WPF logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;63%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;XAML&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:69%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/XAML logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;69%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;andere:800e531670eddd232e58b1524fc60e60&#34;&gt;Andere&lt;/h3&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Excel&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:82%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/ms excel xlsx.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;82%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;systeembeheer:800e531670eddd232e58b1524fc60e60&#34;&gt;Systeembeheer&lt;/h2&gt;
+
+&lt;h3 id=&#34;windows:800e531670eddd232e58b1524fc60e60&#34;&gt;Windows&lt;/h3&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Windows 7&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:75%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Windows7 logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;75%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Windows 8&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Windows8 logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;80%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Windows 8.1&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:81%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Windows81 logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;81%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Windows 10&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:60%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Windows10 logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;60%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+&lt;h4&gt;Windows server 2012&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:80%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Windows server 2012 logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;80%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;linux:800e531670eddd232e58b1524fc60e60&#34;&gt;Linux&lt;/h3&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+    &lt;h4&gt;Linux ubuntu&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:65%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/LinuxUbuntu logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;65%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+    &lt;h4&gt;Linux Xubuntu&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:78%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/LinuxXubuntu logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;78%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;andere-1:800e531670eddd232e58b1524fc60e60&#34;&gt;Andere&lt;/h3&gt;
+
+&lt;div class=&#34;langCont&#34;&gt;
+    &lt;h4&gt;Virtualbox&lt;/h4&gt;
+    &lt;div class=&#34;holder&#34;&gt;&lt;div class=&#34;filler&#34; style=&#34;width:89%;&#34;&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Virtualbox logo.png&#34;/&gt;&lt;span class=&#34;langProc&#34;&gt;89%&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -134,11 +240,11 @@ Ik ben van plan om de laatste 10 matchen (dus niet enkel ranked zoals nu het gev
       <guid>http://jeroen-tondeleir.github.io/taak/applicatie-database/</guid>
       <description>
 
-&lt;h2 id=&#34;schema:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Schema:&lt;/h2&gt;
+&lt;h2 id=&#34;schema:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Schema&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/Gip-Taak_TondeleirJeroen.png&#34; alt=&#34;Schema&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;uitleg:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Uitleg:&lt;/h2&gt;
+&lt;h2 id=&#34;uitleg:8da5131922726cd0b2cec34d6b2bb51b&#34;&gt;Uitleg&lt;/h2&gt;
 
 &lt;p&gt;Het was de bedoeling dat we een applicatie ontwerpten met een bepaald doel en die ook implementeerden.
 Ik had een soort van forumapplicatie ontworpen.&lt;br /&gt;
@@ -206,7 +312,7 @@ Dit kwam vooral door de dringende nood aan een pakket en omdat ze met flinke gro
       <guid>http://jeroen-tondeleir.github.io/taak/huisstijl/</guid>
       <description>
 
-&lt;h2 id=&#34;logo:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;Logo:&lt;/h2&gt;
+&lt;h2 id=&#34;logo:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;Logo&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://jeroen-tondeleir.github.io/images/FTC_Logo.jpg&#34; alt=&#34;Logo FTC&#34; /&gt;&lt;/p&gt;
 
