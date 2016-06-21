@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Document on Geïntegreerde proef</title>
-    <link>http://jeroen-tondeleir.github.io/tags/document/</link>
+    <link>https://jeroen-tondeleir.github.io/tags/document/</link>
     <description>Recent content in Document on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Jeroen Tondeleir; All rights reserved.</copyright>
     <lastBuildDate>Thu, 22 Oct 2015 15:37:51 +0200</lastBuildDate>
-    <atom:link href="http://jeroen-tondeleir.github.io/tags/document/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeroen-tondeleir.github.io/tags/document/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>_index</title>
-      <link>http://jeroen-tondeleir.github.io/_index/</link>
+      <link>https://jeroen-tondeleir.github.io/_index/</link>
       <pubDate>Thu, 22 Oct 2015 15:37:51 +0200</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/_index/</guid>
+      <guid>https://jeroen-tondeleir.github.io/_index/</guid>
       <description>
 
 &lt;h1 id=&#34;welkom-op-mijn-gip-website:3976528693a0108357f4928017600865&#34;&gt;Welkom op mijn GIP-website&lt;/h1&gt;
@@ -39,7 +39,7 @@ Lezen is iets wat ik graag doe, maar ik lees niet één bepaald soort boeken, ik
 
 &lt;h2 id=&#34;wat-brengt-de-toekomst:3976528693a0108357f4928017600865&#34;&gt;Wat brengt de toekomst?&lt;/h2&gt;
 
-&lt;p&gt;Momenteel denk ik eraan om de richting &lt;a href=&#34;https://www.ap.be/wetenschap-en-techniek/opleidingen/integrale-veiligheid&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Informatie over de richting Integrale Veiligheid&#34;&gt;Integrale Veiligheid&lt;/a&gt; te gaan studeren op de &lt;a href=&#34;https://www.ap.be/&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Site van AP&#34;&gt;AP(Artemis Plantijn)&lt;/a&gt; hogeschool in Antwerpen.&lt;br /&gt;
+&lt;p&gt;Momenteel denk ik eraan om de richting &lt;a href=&#34;https://www.ap.be/wetenschap-en-techniek/opleidingen/integrale-veiligheid&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Informatie over de richting Integrale Veiligheid&#34;&gt;Integrale Veiligheid&lt;/a&gt; te gaan studeren op de &lt;a href=&#34;https://www.ap.be/&#34; target=&#34;_blank&#34; rel=&#34;external&#34; title=&#34;Site van AP&#34;&gt;AP (Artesis Plantijn)&lt;/a&gt; hogeschool in Antwerpen.&lt;br /&gt;
 Als je meer wil te weten komen, dan kan je klikken op bovenstaande links.&lt;br /&gt;
 Momenteel ben ik bezig met het maken van de GIP-website en een applicatie te schrijven die werkt met de riot api.&lt;br /&gt;
 De GIP-website heeft als doel om de taken van de GIP, die normaal gezien elke keer opnieuw moet worden afgedrukt, digitaal te zetten. Daardoor kan iedereen de taken bekijken en wordt er veel papier bespaard.&lt;/p&gt;

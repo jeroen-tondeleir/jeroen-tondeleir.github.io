@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LoLs on Geïntegreerde proef</title>
-    <link>http://jeroen-tondeleir.github.io/lol/</link>
+    <link>https://jeroen-tondeleir.github.io/lol/</link>
     <description>Recent content in LoLs on Geïntegreerde proef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Jeroen Tondeleir; All rights reserved.</copyright>
-    <atom:link href="http://jeroen-tondeleir.github.io/lol/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeroen-tondeleir.github.io/lol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://jeroen-tondeleir.github.io/lol/README/</link>
+      <link>https://jeroen-tondeleir.github.io/lol/README/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/lol/README/</guid>
+      <guid>https://jeroen-tondeleir.github.io/lol/README/</guid>
       <description>&lt;p&gt;Met dit experiment bouw ik verder op mijn vorige resultaten.&lt;br /&gt;
 Nu is het de bedoeling dat ik wat meer informatie laat zien over de gebruiker en zijn matchen laat zien.&lt;br /&gt;
 Huidige tests:&lt;br /&gt;
@@ -24,10 +24,10 @@ Huidige tests:&lt;br /&gt;
     
     <item>
       <title></title>
-      <link>http://jeroen-tondeleir.github.io/lol/</link>
+      <link>https://jeroen-tondeleir.github.io/lol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jeroen-tondeleir.github.io/lol/</guid>
+      <guid>https://jeroen-tondeleir.github.io/lol/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
