@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Geïntegreerde proef">
 		<link rel="icon" href="https://jeroen-tondeleir.github.io/favicon.ico">
-		<title>Case study voor het stagebedrijf - Geïntegreerde proef</title>
+		<title>Mobile Device Management: Spiceworks - Geïntegreerde proef</title>
 		
 		<link rel="stylesheet" href="https://jeroen-tondeleir.github.io/css/highlight/default.css">
 		<link rel="stylesheet" href="https://jeroen-tondeleir.github.io/css/bootstrap.min.css">
@@ -87,53 +87,58 @@
 		<main role="main">
 			<article>
 				<a id="title"></a>
-				<h1 class="doc-entry-title">Case study voor het stagebedrijf</h1>
+				<h1 class="doc-entry-title">Mobile Device Management: Spiceworks</h1>
 				<div class="doc-entry-meta">
 					<span><time datetime="2016-05-10">May 10, 2016</time></span>
 				</div>
 				<section>
 					
 
-<h2 id="inleiding:84d1346d224a072f4d8466c5f1ebb1f2">Inleiding</h2>
+<h2 id="wat-is-spiceworks:c36ee4a195c72d275a44931f82064b64">Wat is Spiceworks?</h2>
 
-<h3 id="stagebedrijf-en-de-case-study:84d1346d224a072f4d8466c5f1ebb1f2">Stagebedrijf en de case-study</h3>
+<p>Spiceworks is een MDM (Mobile Device Management). Dit wil zeggen dat je gaat proberen om mobiele toestellen te controleren en beheren via een computer. We hebben het native laten draaien op de computer van Yordi met een Windows als OS. Hiervoor hebben we ook de Spiceworks trial gebruikt. Dit project is getest met oog op mogelijke ingebruikname door de school.</p>
 
-<p>Ik heb in het begin van het jaar met het stagebedrijf (FTC (Fournitures Techniques Co)) gesproken over een onderwerp over de Case Study en ze hebben mij gezegd dat ik het over Teamleader kon doen (een programma dat ze gebruiken voor facturatie etc)</p>
+<h2 id="wat-wilden-we-testen:c36ee4a195c72d275a44931f82064b64">Wat wilden we testen?</h2>
 
-<h3 id="wat-is-teamleader:84d1346d224a072f4d8466c5f1ebb1f2">Wat is teamleader?</h3>
+<p>We hadden de bedoeling om verschillende opties te testen. Zo wilden we testen of het aantal gekoppelde apparaten correct was en er een correcte scheiding tussen de hoeveelheid Android en iOS apparaten was. Ook wilden we testen of we de informatie van de eigenaar van het mobiele toestel konden zien en of we de geïnstalleerde apps konden bekijken.
+Indien de vorige opties werkten, waren we van plan om eenmalig $4 te betalen om extra functies te testen, zoals bijvoorbeeld het bepalen van de juiste locatie van een gekoppeld apparaat indien we dit willen opzoeken/opvragen.</p>
 
-<p>Het is een online tool die CRM (Customer Relationship Management aka klantrelatiebeheer), projectplanning en facturatie aanbiedt.
-De visie van teamleader:
-Optimale relaties en tevreden klanten.
-De makkelijkste weg van offerte naar factuur.
-Duidelijke stand van zaken voor elk project</p>
+<h2 id="hoe-hebben-we-dit-gedaan:c36ee4a195c72d275a44931f82064b64">Hoe hebben we dit gedaan?</h2>
 
-<h2 id="verslag:84d1346d224a072f4d8466c5f1ebb1f2">Verslag</h2>
+<p>Om te beginnen hebben we de trial-versie van Spiceworks geïnstalleerd. Om dit te doen moesten we wel een gebruikersnaam aanmaken op de website. Dit verliep vrij tot zeer vlot. Eens dat gebeurd was, kwamen we terecht op een localhost pagina waar we enkele stappen moesten volgen om de installatie te voltooien. We moeten een gebruikersnaam, wachtwoord en bedrijfsnaam ingeven. Wanneer deze stappen klaar waren, kwamen tot het punt om Spiceworks te testen.</p>
 
-<p>FTC gebruikt Teamleader voornamelijk om hun facturen, klantengegevens en producten (voorraad) te beheren.
-Het programma wordt momenteel enkel gebruikt door Thibaut Jehin (de zaakvoerder), Kevin Maes (de vertegenwoordiger), Ivan (de website admin), Anita (logistiek) en Ben (techniek).<br />
-<img src="/images/Teamleader_Basispakket.jpg" alt="Teamleader basispakket" /><br />
-Er is gekozen voor dit programma omdat meerdere handige functies (zoals bovenstaande), geïntegreerd zijn in één handige tool.
-Het is bovendien redelijk snel en gemakkelijk voor basisgebruik. Het basispakket kost 25 euro per maand, u heeft dan toegang tot de onderstaande functies.</p>
+<p>Als eerste stap in het testproces hebben we een gebruiker aangemaakt. Hiermee bedoelen we de eigenaar van een mobiel apparaat dat in het systeem zit. In het begin was dit even uitzoeken, maar uiteindelijke lukte het wel om een gebruiker correct aan te maken.
+Vervolgens kreeg de gebruiker een e-mail om zijn account te verifiëren door middel van een link en wachtwoord.
+Hierna wordt je doorgeleid naar een pagina die verwijst naar de Google Play Store om de app te downloaden. Indien je een Android toestel hebt, heet de app ‘MaaS360 MDM for Android’. Beschik je over een iOS apparaat, dan heet de app ‘MaaS360 for iOS.
+Als je de app opent moet je eerst de bedrijfs-ID en je e-mailadres ingeven. Wanneer je op ‘doorgaan’ hebt geklikt, moet je legitimatiegegevens invoeren. Uiteindelijk wordt MaaS360 geactiveerd op je toestel.
+Als voorlaatste stap moet je de Apparaatbeheerder toegang geven tot je toestel, zodat hij bijvoorbeeld alle gegevens kan wissen, wachtwoorden wijzigen enz. Tot slot wordt je toestel geconfigureerd.</p>
 
-<p>Per gebruiker die je extra wil, betaal je 10 euro extra. U hebt ook nog de keuze tussen 3 extra functies: facturatie, projecten en ticketing.
-U betaalt respectievelijk 25 euro, 50 euro en 50 euro extra per maand om deze functies te kunnen gebruiken.<br />
-Schema van de prijzen:<br />
-<img src="/images/Teamleader_Prijzen.jpg" alt="Teamleader basispakket" /><br />
-Momenteel betaalt FTC 100 euro per maand om Teamleader te gebruiken. Dus hieruit kunnen we afleiden dat FTC betaalt voor het basispakket aangevuld met de facturatie en project optie.</p>
+<h2 id="eindresultaten:c36ee4a195c72d275a44931f82064b64">Eindresultaten</h2>
 
-<p>FTC is tevreden over dit softwarepakket. Momenteel gebruiken ze sommige functies die in het basispakket zitten niet.
-Een aantal tools in het basispakket zijn volgens Mhr. Jehin niet erg gebruiksvriendelijk.
-Ze vinden het zeker niet het goedkoopste pakket maar wel heel volledig (offertes, facturen, klantenbestand, nieuwe klant vult aan op basis van btw nummer, tickets, time management, bestelbons, leveringsbons) en het is zeer performant.
-Bovendien draait het ook nog in de cloud dus bij thuiswerk is het ook beschikbaar zonder ergens remote te moeten inloggen.
-De servers zijn ten allen tijde beschikbaar, dit komt omdat hun servers AWS (Amazon Web Services) gebruikt om hun data te beheren.
-Alle data is redundant opgeslagen (dit betekent dat de data dubbel of zelfs drievoudig wordt opgeslagen) en automatisch wordt geback-upt.
-De server architectuur en netwerkconnectie zijn volledig redundant, dus zelfs als een hardware component uitvalt, blijft Teamleader toegankelijk.
-Bovendien hebben ze ook nog een smartphone app zodat je onderweg ook nog gegevens kan ingeven en consulteren.
-Persoonlijk gebruikt Mhr. Maes de app veel in de file als klanten bellen.</p>
+<p>Uiteindelijk is gebleken dat Spiceworks niet werkt. Er was niets te zien op het dashbord en een mobiel apparaat konden we ook niet registreren, ook al was het correct geconfigureerd op het toestel zelf.
+Nadat we tot de conclusie kwamen dat Spiceworks niet meer werkte, hebben we besloten niet op te geven. We hebben nog een viertal uurtjes geprobeerd om het te laten werken, we hebben tutorials gevolgd op Youtube en dergelijke, maar niets zorgde ervoor dat het werkte.
+Desondanks het feit dat de tool niet werkte zoals we gehoopt hadden, kunnen we wel al bepaalde zaken concluderen nadat we de tutorials hebben gevolgd en uit eigen ontdekkingen tijdens het uitvoeren van de testen.</p>
 
-<p>FTC had een drietal pakketten bekeken, waaronder Ciel, Teamleader en een derde pakket waar ze de naam niet meer van weten, maar ze hadden tamelijk snel de keuze gemaakt.
-Dit kwam vooral door de dringende nood aan een pakket en omdat ze met flinke groeipijnen zaten. Daar kwam ook nog bij dat de vorige manier van werken, namelijk de facturen en offertes in Excel maken, niet meer hanteerbaar was.</p>
+<h2 id="wat-zou-spiceworks-kunnen-doen:c36ee4a195c72d275a44931f82064b64">Wat zou Spiceworks kunnen doen?</h2>
+
+<p>Als eerste punt, en misschien wel het meest interessante voor de school, is dat je accounts uit de AD (Active Directory) kan implementeren in Spiceworks. Vervolgens is het ook mogelijk om een overzicht te hebben over het aantal Android, Windows en iOS apparaten. Aangezien Spiceworks een gratis basis versie heeft, veronderstellen we dat de school wel wil investeren in de $4 per apparaat. Hierdoor wordt het ook mogelijk om verloren apparaten te traceren. Indien iemand zijn wachtwoord kwijt is, kan de beheerder een password-reset uitvoeren. Hierdoor zal de gebruiker een nieuw wachtwoord kunnen ingeven.
+Het meest interessante voor de school zal ongetwijfeld zijn dat men websites kan blokkeren. Zo is men dus zeker dat ‘foute’ of illegale websites niet bezocht worden.</p>
+
+<h2 id="screenshots-via-pc:c36ee4a195c72d275a44931f82064b64">Screenshots via pc</h2>
+
+<div style="width: 100%;">
+ <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+ <iframe frameborder="0" width="1600" height="900" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="http://www.genial.ly/View/Index/576b8d38fe0a951104a58802" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="no" allownetworking="all"></iframe>
+ </div>
+ </div>
+
+<h2 id="screenshots-via-smartphone:c36ee4a195c72d275a44931f82064b64">Screenshots via smartphone</h2>
+
+<div style="width: 100%;">
+ <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+ <iframe frameborder="0" width="1600" height="900" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="http://www.genial.ly/View/Index/576b90f8fe0a951104a58a53" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="no" allownetworking="all"></iframe>
+ </div>
+ </div>
 
 				</section>
 			</article>
@@ -148,18 +153,19 @@ Dit kwam vooral door de dringende nood aan een pakket en omdat ze met flinke gro
 		<div class="sidebar-toc">
 			<h4 class="sidebar-heading">Table of Contents</h4>
 			<ul>
-				<li><strong><a href="#title">Case study voor het stagebedrijf</a></strong></li>
+				<li><strong><a href="#title">Mobile Device Management: Spiceworks</a></strong></li>
 			</ul>
 			<nav id="TableOfContents">
 <ul>
 <li>
 <ul>
-<li><a href="#inleiding:84d1346d224a072f4d8466c5f1ebb1f2">Inleiding</a>
-<ul>
-<li><a href="#stagebedrijf-en-de-case-study:84d1346d224a072f4d8466c5f1ebb1f2">Stagebedrijf en de case-study</a></li>
-<li><a href="#wat-is-teamleader:84d1346d224a072f4d8466c5f1ebb1f2">Wat is teamleader?</a></li>
-</ul></li>
-<li><a href="#verslag:84d1346d224a072f4d8466c5f1ebb1f2">Verslag</a></li>
+<li><a href="#wat-is-spiceworks:c36ee4a195c72d275a44931f82064b64">Wat is Spiceworks?</a></li>
+<li><a href="#wat-wilden-we-testen:c36ee4a195c72d275a44931f82064b64">Wat wilden we testen?</a></li>
+<li><a href="#hoe-hebben-we-dit-gedaan:c36ee4a195c72d275a44931f82064b64">Hoe hebben we dit gedaan?</a></li>
+<li><a href="#eindresultaten:c36ee4a195c72d275a44931f82064b64">Eindresultaten</a></li>
+<li><a href="#wat-zou-spiceworks-kunnen-doen:c36ee4a195c72d275a44931f82064b64">Wat zou Spiceworks kunnen doen?</a></li>
+<li><a href="#screenshots-via-pc:c36ee4a195c72d275a44931f82064b64">Screenshots via pc</a></li>
+<li><a href="#screenshots-via-smartphone:c36ee4a195c72d275a44931f82064b64">Screenshots via smartphone</a></li>
 </ul></li>
 </ul>
 </nav>

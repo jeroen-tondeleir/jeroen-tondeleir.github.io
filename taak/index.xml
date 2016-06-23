@@ -217,6 +217,62 @@ Deze cijfers worden weergeven op een schaal van 0 tot 100%
     </item>
     
     <item>
+      <title>Mobile Device Management: Spiceworks</title>
+      <link>https://jeroen-tondeleir.github.io/taak/testopstelling/</link>
+      <pubDate>Tue, 10 May 2016 21:29:31 +0200</pubDate>
+      
+      <guid>https://jeroen-tondeleir.github.io/taak/testopstelling/</guid>
+      <description>
+
+&lt;h2 id=&#34;wat-is-spiceworks:c36ee4a195c72d275a44931f82064b64&#34;&gt;Wat is Spiceworks?&lt;/h2&gt;
+
+&lt;p&gt;Spiceworks is een MDM (Mobile Device Management). Dit wil zeggen dat je gaat proberen om mobiele toestellen te controleren en beheren via een computer. We hebben het native laten draaien op de computer van Yordi met een Windows als OS. Hiervoor hebben we ook de Spiceworks trial gebruikt. Dit project is getest met oog op mogelijke ingebruikname door de school.&lt;/p&gt;
+
+&lt;h2 id=&#34;wat-wilden-we-testen:c36ee4a195c72d275a44931f82064b64&#34;&gt;Wat wilden we testen?&lt;/h2&gt;
+
+&lt;p&gt;We hadden de bedoeling om verschillende opties te testen. Zo wilden we testen of het aantal gekoppelde apparaten correct was en er een correcte scheiding tussen de hoeveelheid Android en iOS apparaten was. Ook wilden we testen of we de informatie van de eigenaar van het mobiele toestel konden zien en of we de geïnstalleerde apps konden bekijken.
+Indien de vorige opties werkten, waren we van plan om eenmalig $4 te betalen om extra functies te testen, zoals bijvoorbeeld het bepalen van de juiste locatie van een gekoppeld apparaat indien we dit willen opzoeken/opvragen.&lt;/p&gt;
+
+&lt;h2 id=&#34;hoe-hebben-we-dit-gedaan:c36ee4a195c72d275a44931f82064b64&#34;&gt;Hoe hebben we dit gedaan?&lt;/h2&gt;
+
+&lt;p&gt;Om te beginnen hebben we de trial-versie van Spiceworks geïnstalleerd. Om dit te doen moesten we wel een gebruikersnaam aanmaken op de website. Dit verliep vrij tot zeer vlot. Eens dat gebeurd was, kwamen we terecht op een localhost pagina waar we enkele stappen moesten volgen om de installatie te voltooien. We moeten een gebruikersnaam, wachtwoord en bedrijfsnaam ingeven. Wanneer deze stappen klaar waren, kwamen tot het punt om Spiceworks te testen.&lt;/p&gt;
+
+&lt;p&gt;Als eerste stap in het testproces hebben we een gebruiker aangemaakt. Hiermee bedoelen we de eigenaar van een mobiel apparaat dat in het systeem zit. In het begin was dit even uitzoeken, maar uiteindelijke lukte het wel om een gebruiker correct aan te maken.
+Vervolgens kreeg de gebruiker een e-mail om zijn account te verifiëren door middel van een link en wachtwoord.
+Hierna wordt je doorgeleid naar een pagina die verwijst naar de Google Play Store om de app te downloaden. Indien je een Android toestel hebt, heet de app ‘MaaS360 MDM for Android’. Beschik je over een iOS apparaat, dan heet de app ‘MaaS360 for iOS.
+Als je de app opent moet je eerst de bedrijfs-ID en je e-mailadres ingeven. Wanneer je op ‘doorgaan’ hebt geklikt, moet je legitimatiegegevens invoeren. Uiteindelijk wordt MaaS360 geactiveerd op je toestel.
+Als voorlaatste stap moet je de Apparaatbeheerder toegang geven tot je toestel, zodat hij bijvoorbeeld alle gegevens kan wissen, wachtwoorden wijzigen enz. Tot slot wordt je toestel geconfigureerd.&lt;/p&gt;
+
+&lt;h2 id=&#34;eindresultaten:c36ee4a195c72d275a44931f82064b64&#34;&gt;Eindresultaten&lt;/h2&gt;
+
+&lt;p&gt;Uiteindelijk is gebleken dat Spiceworks niet werkt. Er was niets te zien op het dashbord en een mobiel apparaat konden we ook niet registreren, ook al was het correct geconfigureerd op het toestel zelf.
+Nadat we tot de conclusie kwamen dat Spiceworks niet meer werkte, hebben we besloten niet op te geven. We hebben nog een viertal uurtjes geprobeerd om het te laten werken, we hebben tutorials gevolgd op Youtube en dergelijke, maar niets zorgde ervoor dat het werkte.
+Desondanks het feit dat de tool niet werkte zoals we gehoopt hadden, kunnen we wel al bepaalde zaken concluderen nadat we de tutorials hebben gevolgd en uit eigen ontdekkingen tijdens het uitvoeren van de testen.&lt;/p&gt;
+
+&lt;h2 id=&#34;wat-zou-spiceworks-kunnen-doen:c36ee4a195c72d275a44931f82064b64&#34;&gt;Wat zou Spiceworks kunnen doen?&lt;/h2&gt;
+
+&lt;p&gt;Als eerste punt, en misschien wel het meest interessante voor de school, is dat je accounts uit de AD (Active Directory) kan implementeren in Spiceworks. Vervolgens is het ook mogelijk om een overzicht te hebben over het aantal Android, Windows en iOS apparaten. Aangezien Spiceworks een gratis basis versie heeft, veronderstellen we dat de school wel wil investeren in de $4 per apparaat. Hierdoor wordt het ook mogelijk om verloren apparaten te traceren. Indien iemand zijn wachtwoord kwijt is, kan de beheerder een password-reset uitvoeren. Hierdoor zal de gebruiker een nieuw wachtwoord kunnen ingeven.
+Het meest interessante voor de school zal ongetwijfeld zijn dat men websites kan blokkeren. Zo is men dus zeker dat ‘foute’ of illegale websites niet bezocht worden.&lt;/p&gt;
+
+&lt;h2 id=&#34;screenshots-via-pc:c36ee4a195c72d275a44931f82064b64&#34;&gt;Screenshots via pc&lt;/h2&gt;
+
+&lt;div style=&#34;width: 100%;&#34;&gt;
+ &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&#34;&gt;
+ &lt;iframe frameborder=&#34;0&#34; width=&#34;1600&#34; height=&#34;900&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;http://www.genial.ly/View/Index/576b8d38fe0a951104a58802&#34; type=&#34;text/html&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; scrolling=&#34;no&#34; allownetworking=&#34;all&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+&lt;h2 id=&#34;screenshots-via-smartphone:c36ee4a195c72d275a44931f82064b64&#34;&gt;Screenshots via smartphone&lt;/h2&gt;
+
+&lt;div style=&#34;width: 100%;&#34;&gt;
+ &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&#34;&gt;
+ &lt;iframe frameborder=&#34;0&#34; width=&#34;1600&#34; height=&#34;900&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;http://www.genial.ly/View/Index/576b90f8fe0a951104a58a53&#34; type=&#34;text/html&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; scrolling=&#34;no&#34; allownetworking=&#34;all&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Simulatie m.b.v. een interactieve (client-side web-)applicatie</title>
       <link>https://jeroen-tondeleir.github.io/taak/applicatie-web/</link>
       <pubDate>Tue, 10 May 2016 21:29:31 +0200</pubDate>
